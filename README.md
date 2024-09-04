@@ -77,4 +77,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue in this repository or contact our support team at [your-support-email@example.com].
+If you encounter any issues or have questions, please open an issue in this repository or contact sohail.bnh@gmail.com
